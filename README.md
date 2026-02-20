@@ -138,7 +138,7 @@ Feature importance analysis was conducted using permutation methods, revealing t
 
 ## How to cite
 
-**Petalcorin, M.I.R.** (2025) Integrative simulation of photorespiration bypass, Rubisco optimisation, and stomatal tuning predicts synergistic improvements in C3 crop photosynthetic efficiency. GitHub repository
+**Petalcorin, M.I.R.** (2025). Redesigning photosynthesis: a machine learning simulation and synthetic strategies to enhance carbon, water, and nitrogen efficiency in crops. agriRxiv. https://www.cabidigitallibrary.org/doi/pdf/10.31220/agriRxiv.2025.00374
 
 ## License
 
